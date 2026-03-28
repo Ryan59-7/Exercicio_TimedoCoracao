@@ -1,9 +1,9 @@
 ﻿Console.BackgroundColor = ConsoleColor.Black;
 Console.ForegroundColor = ConsoleColor.White;
-Console.Write(" C o r i n");
+Console.Write(" Corin");
 
 Console.BackgroundColor = ConsoleColor.Black;
 Console.BackgroundColor = ConsoleColor.White;
-Console.Write(" t h i a n s");
+Console.Write("thians");
 
 Console.ResetColor();
